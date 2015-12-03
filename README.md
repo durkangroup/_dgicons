@@ -1,3 +1,3 @@
-_dgicons 3.2
-============
+_dgicons
+========
 Custom icons used for sites.
