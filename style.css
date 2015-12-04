@@ -1,10 +1,10 @@
 @font-face {
 	font-family: '_dgicons';
-	src:url('fonts/_dgicons.eot?py92ux');
-	src:url('fonts/_dgicons.eot?py92ux#iefix') format('embedded-opentype'),
-		url('fonts/_dgicons.ttf?py92ux') format('truetype'),
-		url('fonts/_dgicons.woff?py92ux') format('woff'),
-		url('fonts/_dgicons.svg?py92ux#_dgicons') format('svg');
+	src:url('fonts/_dgicons.eot?f3vtrf');
+	src:url('fonts/_dgicons.eot?f3vtrf#iefix') format('embedded-opentype'),
+		url('fonts/_dgicons.ttf?f3vtrf') format('truetype'),
+		url('fonts/_dgicons.woff?f3vtrf') format('woff'),
+		url('fonts/_dgicons.svg?f3vtrf#_dgicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -45,6 +45,9 @@
 ._dgicon-the-d:before {
 	content: "\e610";
 }
+._dgicon-location:before {
+	content: "\e90d";
+}
 ._dgicon-launch:before {
 	content: "\e905";
 }
@@ -81,16 +84,16 @@
 ._dgicon-arrow-right:before {
 	content: "\e604";
 }
-._dgicon-arrow:before {
+._dgicon-arrowshort-up:before {
 	content: "\e909";
 }
 ._dgicon-arrowshort-down:before {
 	content: "\e90a";
 }
-._dgicon-arrow2:before {
+._dgicon-arrowshort-left:before {
 	content: "\e90b";
 }
-._dgicon-arrow3:before {
+._dgicon-arrowshort-right:before {
 	content: "\e90c";
 }
 ._dgicon-email:before {
