@@ -1,3 +1,3 @@
 _dgicons
 ========
-Custom icons used for sites dude.
+Custom icons used for sites.

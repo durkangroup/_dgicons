@@ -1230,7 +1230,7 @@
 			"cssVars": false,
 			"cssVarsFormat": "less",
 			"embed": false,
-			"noie8": true
+			"noie8": false
 		},
 		"imagePref": {
 			"prefix": "icon-",
