@@ -1,10 +1,10 @@
 @font-face {
     font-family: '_dgicons';
-    src:    url('fonts/_dgicons.eot?ukf82u');
-    src:    url('fonts/_dgicons.eot?ukf82u#iefix') format('embedded-opentype'),
-        url('fonts/_dgicons.ttf?ukf82u') format('truetype'),
-        url('fonts/_dgicons.woff?ukf82u') format('woff'),
-        url('fonts/_dgicons.svg?ukf82u#_dgicons') format('svg');
+    src:    url('fonts/_dgicons.eot?4pfebq');
+    src:    url('fonts/_dgicons.eot?4pfebq#iefix') format('embedded-opentype'),
+        url('fonts/_dgicons.ttf?4pfebq') format('truetype'),
+        url('fonts/_dgicons.woff?4pfebq') format('woff'),
+        url('fonts/_dgicons.svg?4pfebq#_dgicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -39,14 +39,23 @@
 ._dgicon-arrowalt-right:before {
     content: "\e903";
 }
+._dgicon-caretcircle-up:before {
+    content: "\e90f";
+}
+._dgicon-caretcircle-down:before {
+    content: "\e910";
+}
+._dgicon-caretcircle-left:before {
+    content: "\e911";
+}
+._dgicon-caretcircle-right:before {
+    content: "\e912";
+}
 ._dgicon-mouse:before {
     content: "\e60e";
 }
 ._dgicon-the-d:before {
     content: "\e610";
-}
-._dgicon-mouse2:before {
-    content: "\e60f";
 }
 ._dgicon-location:before {
     content: "\e90d";
@@ -101,6 +110,9 @@
 }
 ._dgicon-email:before {
     content: "\e60c";
+}
+._dgicon-phone:before {
+    content: "\e913";
 }
 ._dgicon-video:before {
     content: "\e908";
